@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Yuan / Academic Bio"
+title                    : "Bo Yuan / 袁博"
 title_separator          : "-"
 name                     : &name "Bo Yuan"
 description              : &description "Lecturer (assistant professor) in Computing and Data Science"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Bo Yuan"
+  avatar           : "profile.jpg"
+  bio              : "Lecturer in Computing and Data Science"
+  location         : "UK"
+  employer         : University of Derby
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=F5iio5IAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dr-boyuan.github.io"
   google_plus      :
   keybase          :
   instagram        :
