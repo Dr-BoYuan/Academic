@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 ---
-
-
+Selective Recent Publications
 * B. Yuan, J. Panneerselvam, L. Liu, N. Antonopoulos, and Y. Lu, "An Inductive Content-Augmented Network Embedding Model for Edge Artificial Intelligence," IEEE Transactions on Industrial Informatics, pp. 4295-4305, 2019. (Impact Factor 9.112)
 * B. Yuan, L. Liu, and N. Antonopoulos, "Efficient service discovery in decentralized online social networks," Future Generation Comp. Syst., vol. 86, pp. 775-791, 2018. (Impact Factor 5.768)
 * Jiang, L. Shi, L. Liu, J. Yao, B. Yuan, and Y. Zheng, "An Efficient Evolutionary User Interest Community Discovery Model in Dynamic Social Networks for Internet of People," IEEE Internet of Things Journal, pp. 1-1, 2019. (Impact Factor 9.936)
