@@ -7,8 +7,6 @@ date: 2018-09-01
 venue: 'Future Generation Computer Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167739X17306465'
 citation: 'Yuan, B., Liu, L. and Antonopoulos, N., 2018. Efficient service discovery in decentralized online social networks. Future Generation Computer Systems, 86, pp.775-791.'
----
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17306465)
 

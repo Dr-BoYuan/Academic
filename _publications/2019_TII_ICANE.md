@@ -7,8 +7,6 @@ date: 2019-07-01
 venue: 'IEEE Transactions on Industrial Informatics,'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8658146'
 citation: 'B. Yuan, J. Panneerselvam, L. Liu, N. Antonopoulos and Y. Lu, "An Inductive Content-Augmented Network Embedding Model for Edge Artificial Intelligence," in IEEE Transactions on Industrial Informatics, vol. 15, no. 7, pp. 4295-4305, July 2019, doi: 10.1109/TII.2019.2902877.'
----
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8658146)
 

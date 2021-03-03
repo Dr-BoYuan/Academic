@@ -1,7 +1,7 @@
 ---
 title: "Data Mamagement and Business Intelligence (Level 5)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2021_Spring_DMBI
 venue: "University of Derby, School of Computing and Engineering"
 date: 2021-01-01

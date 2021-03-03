@@ -16,10 +16,12 @@ Education
 
 Work experience
 ======
-* April 2019 - present	Lecturer in Computing and Data Science, University of Derby
+* April 2019 - present	Lecturer in Computing and Data Science,
+  University of Derby
 
-* June 2017 - April 2019	KTP Data Scientist (PostDoc), University of Derby
-	Innovate UK project “To use intelligent analytics to discover insights and patterns within retail data.”
+* June 2017 - April 2019	KTP Data Scientist (PostDoc),
+  University of Derby
+	Innovate UK project "To use intelligent analytics to discover insights and patterns within retail data."
 
 Skills
 ======

@@ -1,7 +1,7 @@
 ---
 title: "Database Development (Level 7)"
 collection: teaching
-type: "PostGraducate course"
+type: "Postgraducate Course"
 permalink: /teaching/2019_Autumn_DatabaseDev
 venue: "University of Derby, School of Computing and Engineering"
 date: 2019-01-01
