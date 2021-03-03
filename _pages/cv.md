@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,6 +22,11 @@ Work experience
 * June 2017 - April 2019	KTP Data Scientist (PostDoc),
   University of Derby
 	Innovate UK project "To use intelligent analytics to discover insights and patterns within retail data."
+
+Current Research Projects
+======
+* KTP Project in Virtual Reality (University of Derby & Bloc Digital)					        2019 – 2021
+* KTP Project in Network Services	(University of Derby & FP Solutions)						    2019 – 2022
 
 Skills
 ======
@@ -46,19 +51,12 @@ Publications
 * B. Yuan, A. Anjum, J. Panneerselvam, L. Liu. 2019, November. Exploring Network Embedding for Efficient Message Routing in Opportunistic Mobile Social Networks. In 2019 International Conference on Data Mining Workshops (ICDMW) (pp. 497-504). IEEE.
 * B. Yuan, J. Gu, and L. Liu. "A Privacy-Preserved Probabilistic Routing Index Model for Decentralised Online Social Networks." 2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI). IEEE, 2019
 
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 Teaching
 ======
 * Foundations of Computer Science (Level 4)
 * Data Mamagement and Business Intelligence (Level 5)
 * Database Development (Level 7)
-
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 Service
 ======
