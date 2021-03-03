@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Yuan / Academic Bio"
+title                    : "Bo Yuan / Academic Site"
 title_separator          : "-"
 name                     : &name "Bo Yuan"
-url                      : https://dr-boyuan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dr-boyuan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dr-BoYuan/dr-boyuan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Bo Yuan"
   avatar           : "profile.jpg"
-  bio              : "Lecturer in Computing and Data Science"
+  bio              : "Lecturer (Assistant Prof) in Computing and Data Science"
   location         : "UK"
-  employer         : University of Derby
+  employer         : "University of Derby"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=F5iio5IAAAAJ&hl=en"
-  email            :
+  email            : "boyuan.uk@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/dr-boyuan"
   orcid            : "https://orcid.org/0000-0001-8401-321X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

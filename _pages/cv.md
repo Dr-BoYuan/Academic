@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Tongji University, 2017
+* BEng in Computer Scicence and Technology, Tongji University, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - present	Lecturer in Computing and Data Science, University of Derby
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* June 2017 - April 2019	KTP Data Scientist (PostDoc), University of Derby
+	Innovate UK project “To use intelligent analytics to discover insights and patterns within retail data.”
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science
+* Deep Learning
+  * CNN, LSTM, RNN
+  * Tensorflow
+  * PyTorch
+* Big data Analytics  
+  * R, Python
+  * Tableau, SAS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service
 ======
-* Currently signed in to 43 different slack teams
+* **Regular reviewer**: IEEE Transactions on Industrial Informatics; Peer-to-Peer Networking and Applications; IEEE Access; IEEE Internet of Things Journal; ACM Transactions on Intelligent Systems and Technology; Information Sciences - Journal
+* **Conference Organization**: PC member and Workshop co-chair of ScalCom 2019; Proceeding chair and local organizing chair of UCC2016; PC member of UCC2015, UCC2016, BDCAT2016
