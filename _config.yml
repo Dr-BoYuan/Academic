@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Yuan / Academic Site"
+title                    : "Bo Yuan's Academic Site"
 title_separator          : "-"
 name                     : &name "Bo Yuan"
 url                      : "https://dr-boyuan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dr-BoYuan/dr-boyuan.github.io"
+repository               : "Dr-BoYuan"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -175,17 +175,17 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: false
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # Defaults
