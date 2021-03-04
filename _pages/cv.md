@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* April 2019 - present
-  **Lecturer in Computing and Data Science**
-  University of Derby
+* April 2019 - present<br>
+  **Lecturer in Computing and Data Science**<br>
+  University of Derby<br>
 
-* June 2017 - April 2019
-  **KTP Data Scientist (PostDoc)**
-  University of Derby and Solutions for Retail Brands (S4RB)
+* June 2017 - April 2019<br>
+  **KTP Data Scientist (PostDoc)**<br>
+  University of Derby and Solutions for Retail Brands (S4RB)<br>
 	Innovate UK project "To use intelligent analytics to discover insights and patterns within retail data."
 
 Current Research Projects
@@ -49,15 +49,15 @@ Skills
 
 PhD Students
 ======
-* Muhammad Sadiq Hassan Zada; 2020 - present;
+* Muhammad Sadiq Hassan Zada; 2020 - present;  <br>
 Research Topic: 'An efficient graph integration framework based on novel graph probabilistic dependencies'
-* Rabia Saleem; 2020 - present;
+* Rabia Saleem; 2020 - present; <br>
 Research Topic: 'Trustworthy and Explainable Artificial Intelligence using Graph Theoretic Models'
-* Thankgod Anthony Njoku; 2019 - present (co-supervision);
+* Thankgod Anthony Njoku; 2019 - present (co-supervision);<br>
 Research Topic:'Data Security and Privacy Platform using Machine Learning for Blockchain in Smart Government'
-* Bilal Arshad; 2016 - present (co-supervision);
+* Bilal Arshad; 2016 - present (co-supervision);<br>
 Research Topic: 'Graph Based Data Integration for SystemIntegrity and Scalable Analytics'
-* Danielle Turvill; 2016 - present (co-supervision)
+* Danielle Turvill; 2016 - present (co-supervision); <br>
 Research Topic: 'Machine Learning in Accelerator-based High Energy Physics'
 
 *Looking for self-motivated PhD candidates to embark upon the most trending AI and Data Science research. Do not hesitate to get in touch if you are interested*.
@@ -73,8 +73,13 @@ Teaching
 
 Professional Service
 ======
-* Regular reviewer: IEEE Transactions on Industrial Informatics; Peer-to-Peer Networking and Applications; IEEE Access; IEEE Internet of Things Journal; ACM Transactions on Intelligent Systems and Technology; Information Sciences - Journal
-* Conference Organization: PC member and Workshop co-chair of ScalCom 2019; Proceeding chair and local organizing chair of UCC2016; PC member of UCC2015, UCC2016, BDCAT2016
+* #### Regular reviewer: <br>
+
+  IEEE Transactions on Industrial Informatics; Peer-to-Peer Networking and Applications; IEEE Access; IEEE Internet of Things Journal; ACM Transactions on Intelligent Systems and Technology; Information Sciences - Journal
+
+* #### Conference Service: <br>
+
+  PC member and Workshop co-chair of ScalCom 2019; Proceeding chair and local organizing chair of UCC2016; PC member of UCC2015, UCC2016, BDCAT2016
 
 Recent Journal Publications
 ======
